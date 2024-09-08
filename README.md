@@ -1,6 +1,4 @@
-Here's an updated version of your README file that includes the steps to run both the frontend (React) and backend (Node.js), with emphasis on setting up the backend to interact with ADM:
 
----
 
 # Remove Background WebGPU with Basin Integration
 
